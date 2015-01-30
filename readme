@@ -1,2 +1,9 @@
 Readme file
 Hello world!
+
+ls
+git status
+
+git add .
+git commit -m 'initial file commit'
+git push origin master
